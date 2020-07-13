@@ -6,7 +6,9 @@ The project aims to provide meaningful, local region names and region boundaries
 For the sake of brevity, parts of region labels that mean 'mountain range' or similar are excluded from region labels. For example, the 'Kun Lun Shan' is labled 'Kun Lun', here.
 
 ## Help improve the dataset
-Please report any errors, typos, etc., in the Issues section 
+Please report any errors, typos, etc., in the [Issues section](https://github.com/cryotools/orographic-regions/issues).
+
+In case you would like to share imporevements to the shapefile, please fork the repository, commit your changes, and file a merge request.
 
 ## Based on the following ressources
 [Glacier Regions by the Global Terrestrial Network for Glaciers (GTN-G)](https://www.gtn-g.ch/data_catalogue_glacreg/)
